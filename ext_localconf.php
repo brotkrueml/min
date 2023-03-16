@@ -6,7 +6,7 @@
  *  | (c) 2016-2022 Armin Vieweg <info@v.ieweg.de>
  */
 
-if (!defined('TYPO3_MODE')) {
+if (!defined('TYPO3')) {
     die('Access denied.');
 }
 
